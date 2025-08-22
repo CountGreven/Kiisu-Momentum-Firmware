@@ -41,3 +41,7 @@
 [submodule "lib/uzlib"]
 	path = lib/uzlib
 	url = https://github.com/pfalcon/uzlib.git
+[submodule "applications/kiisu_sensor_hub"]
+	path = applications/kiisu_sensor_hub
+	url = https://github.com/twoelw/kiisu-sensor-hub.git
+	branch = main
