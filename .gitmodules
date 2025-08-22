@@ -45,3 +45,7 @@
 	path = applications/kiisu_sensor_hub
 	url = https://github.com/twoelw/kiisu-sensor-hub.git
 	branch = main
+[submodule "applications/unsecure_enclave"]
+	path = applications/unsecure_enclave
+	url = https://github.com/twoelw/Unsecure-Enclave-App.git
+	branch = main
