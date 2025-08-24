@@ -49,3 +49,6 @@
 	path = applications/unsecure_enclave
 	url = https://github.com/twoelw/Unsecure-Enclave-App.git
 	branch = main
+[submodule "applications/kiisu_companion_bridge"]
+	path = applications/kiisu_companion_bridge
+	url = https://github.com/twoelw/kiisu-companion-bridge.git
