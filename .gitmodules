@@ -52,3 +52,6 @@
 [submodule "applications/kiisu_companion_bridge"]
 	path = applications/kiisu_companion_bridge
 	url = https://github.com/twoelw/kiisu-companion-bridge.git
+[submodule "applications/kiisu-manager"]
+	path = applications/kiisu-manager
+	url = https://github.com/twoelw/kiisu-manager
